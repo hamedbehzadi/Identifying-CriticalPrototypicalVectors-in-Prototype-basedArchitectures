@@ -5,4 +5,4 @@ This repository provides codes implemented for identifying critical prototypical
 This code package was based upon ProtoPNet from https://github.com/cfchen-duke/ProtoPNet. 
 
 
-![Uploading vertical_critical_prototypical_vectors.jpg…]()
+![Uploading vertical_critical_prototypical_vectors.jpg…]
