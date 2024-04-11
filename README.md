@@ -1,4 +1,4 @@
-# Identifying-CriticalPrototypicalVectors-in-Prototype-basedArchitectures
+# Identifying Critical Prototypical Vectors in Prototype based Architectures
 
 This repository provides codes implemented for identifying critical prototypical vectors in prototype-based architectures. The experiments conducted are related to the paper titled: "A Survey of Interpretation Methods for Deep Convolutional Neural Networks"
 
